@@ -4,5 +4,6 @@ public class DD {
 		System.out.println("风扇换空调");
 		System.out.println("好凉快");
 		System.out.println("好凉快2");
+		System.out.println("好凉快3");
 	}
 }
