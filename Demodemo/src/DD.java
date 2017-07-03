@@ -6,5 +6,6 @@ public class DD {
 		System.out.println("好凉快2");
 		System.out.println("好凉快3");
 		System.out.println("姜一大笨蛋");
+		System.out.println("好凉快4");
 	}
 }
