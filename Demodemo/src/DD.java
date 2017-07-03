@@ -8,7 +8,7 @@ public class DD {
 		System.out.println("姜一大笨蛋");
 		System.out.println("好凉快4");
 		System.out.println("好凉快5");
-
+		System.out.println("姜一大大笨蛋");
 		System.out.println("好凉快6");
 		
 	}
