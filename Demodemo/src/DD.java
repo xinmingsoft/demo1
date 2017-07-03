@@ -11,6 +11,7 @@ public class DD {
 		System.out.println("姜一大大笨蛋");
 		System.out.println("好凉快6");
 		System.out.println("姜一大大笨蛋");
-		
+
+		System.out.println("好凉快66666");
 	}
 }
